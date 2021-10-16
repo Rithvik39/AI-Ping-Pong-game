@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid greenyellow;
+}
+#start , #status{
+    font-size: 22px;
+}
+canvas{
+    border: 5px dashed cyan;
+    box-shadow: 1px 1px 9px cyan;
+}
+.footer{
+    bottom: 0px;
+    position: fixed;
+    background-color: aqua;
+    color: cadetblue;
+    width: 100%;
+    line-height: 3;
+}
